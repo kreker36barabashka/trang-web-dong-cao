@@ -21,3 +21,6 @@ npm-debug.log*
 
 # Bỏ qua thư mục cache của môi trường phát triển
 .cache/
+
+# Bỏ qua các tệp tạm thời do các trình biên dịch tạo ra
+*.out
