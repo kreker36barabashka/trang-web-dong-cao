@@ -1,3 +1,6 @@
+# Đây là tệp .gitignore
+# Bỏ qua tất cả các thư mục và tệp sau đây trong Git
+
 node_modules/
 build/
 .env
