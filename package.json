@@ -1,14 +1,1 @@
 {
-  "name": "trang-web-dong-cao",
-  "version": "1.0.0",
-  "description": "Đây là một trang web động sử dụng Express và Mongoose.",
-  "main": "server/index.js",
-  "scripts": {
-    "start": "node server/index.js",
-    "start:prod": "NODE_ENV=production node server/index.js"
-  },
-  "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.11.15"
-  }
-}
