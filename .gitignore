@@ -15,3 +15,9 @@ build/
 
 # Bỏ qua các tệp nhật ký lỗi của npm
 npm-debug.log*
+
+# Bỏ qua các tệp tạm thời của hệ điều hành
+*.tmp
+
+# Bỏ qua thư mục cache của môi trường phát triển
+.cache/
