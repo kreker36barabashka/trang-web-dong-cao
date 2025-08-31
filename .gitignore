@@ -1,6 +1,11 @@
 # Đây là tệp .gitignore
 # Bỏ qua tất cả các thư mục và tệp sau đây trong Git
 
+# Thư mục chứa các gói phụ thuộc của Node.js
 node_modules/
+
+# Thư mục chứa phiên bản đã biên dịch của ứng dụng
 build/
+
+# Tệp chứa thông tin biến môi trường nhạy cảm
 .env
