@@ -7,11 +7,11 @@ node_modules/
 # Thư mục chứa phiên bản đã biên dịch của ứng dụng
 build/
 
-# Tệp chứa thông tin biến môi trường nhạy cảm
+# Tệp chứa thông tin biến môi trường nhạy cảm (.env) - Chứa thông tin bí mật
 .env
 
-# Ignore log files
+# Bỏ qua tất cả các tệp nhật ký
 *.log
 
-# Ignore npm-debug log files
+# Bỏ qua các tệp nhật ký lỗi của npm
 npm-debug.log*
