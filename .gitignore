@@ -9,3 +9,9 @@ build/
 
 # Tệp chứa thông tin biến môi trường nhạy cảm
 .env
+
+# Ignore log files
+*.log
+
+# Ignore npm-debug log files
+npm-debug.log*
